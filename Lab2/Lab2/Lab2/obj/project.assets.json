@@ -10515,11 +10515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bài tập\\web\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\HoNgocHoa_205051928\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "D:\\Bài tập\\web\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\HoNgocHoa_205051928\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Bài tập\\web\\Lab2\\Lab2\\Lab2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\HoNgocHoa_205051928\\Lab2\\Lab2\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
